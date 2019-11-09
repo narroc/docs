@@ -1,12 +1,12 @@
 # CSMM Economy Guide
 
+## Overview
+
 One of the central functions of CSMM is the Economy system. When Economy is enabled, players have a virtual wallet that is available to them at all times, and can earn and spend money from that wallet in several different ways ways. This virtual wallet is completely separate from in-game Dukes, allowing you to have full control over how players receive this extra, external currency, as well as how and where and when they can spend it on.
 
 From the earning side, players can receive currency for time played on the server, kills (both zombie and player), and via custom commands and events that can be configured in CSMM itself. Players can spend this currency at a configurable in-game/web-UI shop within CSMM, pay to use custom commands set up by the server Admins, and more.
 
 Enabling the economy functionality is easy, but finding the right values to use for rewards and prices can be tricky. If you reward players too much, prices need to be extremely high to balance out, but if you set the rewards too low, players will be unable to use the custom commands and shop. There is no 'correct' values to use; how to reward, and how much, is unique to your server and how you administrators.
-
-## Overview
 
 ## Configuring the Economy 
 
